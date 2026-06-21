@@ -1,13 +1,24 @@
-# Routine Assistant GitHub Pages website
+# Henge GitHub Pages website
 
-This folder contains a simple static website for App Store support and privacy links.
+Static website for Henge App Store support and privacy links.
 
-Files:
-- index.html
-- support.html
-- privacy.html
-- style.css
+## Files
 
+- `index.html`
+- `support.html`
+- `privacy.html`
+- `style.css`
+- `assets/henge-icon.png`
+- `assets/apple-touch-icon.png`
+- `assets/favicon.ico`
+- `assets/og-image.png`
+
+## Public links
+
+Support:
 https://sorooshaghaei.github.io/routine-assistant-site/support.html
 
+Privacy:
 https://sorooshaghaei.github.io/routine-assistant-site/privacy.html
+
+Keep the `routine-assistant-site` path unless you also update the support and privacy URLs in App Store Connect.
